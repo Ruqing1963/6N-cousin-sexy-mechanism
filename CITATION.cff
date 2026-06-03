@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "A two-centre CRT mechanism for the cousin and sexy omega-distortions on the 6N skeleton (Part X)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-03"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-cousin-sexy-mechanism"
+keywords:
+  - cousin primes
+  - sexy primes
+  - twin primes
+  - Chinese remainder theorem
+  - two-centre correlation
+  - prime constellations
+  - experimental mathematics
+references:
+  - type: software
+    title: "6N twin-prime conditional density (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+  - type: software
+    title: "6N two-centre shield law (Part V)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20510700
+  - type: software
+    title: "6N closed-form conditional twin-gap distribution (Part VII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20518470
+  - type: software
+    title: "6N cousin and sexy prime pairs (Part IX)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20520492
